@@ -1,4 +1,4 @@
-[
+var questionAnswer = [
   {
     "qns": 'How do I sign up?',
     "ans": 'To sign up to childer visit <a href="www.childershop.co.nz">www.childershop.co.nz</a> and click the <a href="/en/sign_up">sign up </a> button on the top right hand side of the home page (just next to the <a href="/en/listings/new"> post a new listing </a> button). You will be directed to either sign up with your Facebook login detail or create an account with us. Once you have completed the steps as directed you will be signed up and ready to go! '
