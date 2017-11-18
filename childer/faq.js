@@ -127,5 +127,10 @@ var questionAnswer = [
   {
     "qns": 'Do you allow guest checkout?1132',
     "ans": 'No. You must sign up to childer to purchase items from the site.'
+  },
+  {
+    "qns": "Test question",
+    "ans": "Test Answer"
+    
   }
 ];
