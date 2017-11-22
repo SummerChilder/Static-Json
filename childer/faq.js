@@ -21,7 +21,7 @@ var questionAnswer = [
   },
   {
     "qns": 'Are my bank account details safe on childer?',
-    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click <a href="https://stripe.com/docs/security/stripe">https://stripe.com/docs/security/stripe>here</a> to find out more about security at Stripe. '
+    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click <a href="https://stripe.com/docs/security/stripe">here</a> to find out more about security at Stripe. '
   },
   {
     "qns": 'What is a routing number?',
@@ -33,7 +33,7 @@ var questionAnswer = [
   },
   {
     "qns": 'Are credit card payments safe on childer? ',
-    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click here <a href="https://stripe.com/docs/security/stripe">https://stripe.com/docs/security/stripe>here</a> to find out more about security at Stripe. '
+    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click <a href="https://stripe.com/docs/security/stripe">here</a> to find out more about security at Stripe. '
   },
   {
     "qns": 'Why hasn’t my payment been accepted / processed?',
