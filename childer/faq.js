@@ -115,7 +115,7 @@ var questionAnswer = [
   },
   {
     "qns": 'Why has my item been deleted?',
-    "ans": 'We strive to maintain consistently good quality items for the mums and dads using the site. If we feel that your item does not meet the required level of quality we will delete it from the site and contact you to let you know. Please check out our <a href="#">Seller Guidelines</a> for more information on what we will and won’t accept on childer.'
+    "ans": 'We strive to maintain consistently good quality items for the mums and dads using the site. If we feel that your item does not meet the required level of quality we will delete it from the site and contact you to let you know. Please check out our <a href="https://drive.google.com/open?id=0B1uxDOhcNFJDWTFaSHFuMUw0NkE">Seller Guidelines</a> for more information on what we will and won’t accept on childer.'
   },
   {
     "qns": 'I forgot my password. How do I reset it?',
