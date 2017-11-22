@@ -9,11 +9,11 @@ var questionAnswer = [
   },
   {
     "qns": 'What are childer’s fees? ',
-    "ans": 'It is free to sign up and free to list items for sale. childer charges a commission on all items sold.  We charge 11% commission on items with a sale price of $25.00 and over. For items under $25.00 there is a set transaction fee of $2.50; this is fixed to cover our minimum charges. </br> Items sold via our Depot Service are subject to 50% commission. In addition, sellers are required to pay the Stripe transaction fees.'
+    "ans": 'It is free to sign up and free to list items for sale. childer charges a commission on all items sold.  We charge 15% commission on items with a sale price of $16.00 and over. For items under $16.00 there is a set transaction fee of $2.50; this is fixed to cover our minimum charges. </br> Items sold via our Depot Service are subject to 50% commission. In addition, sellers are required to pay the Stripe transaction fees.'
   },
   {
     "qns": 'How do I list an item on childer? ',
-    "ans": 'First of all you will need to sign up. You can do that <a href="/en/sign_up"> here </a> Once you are logged in simply click on the <a href="/en/listings/new"> post a new listing </a> button. This can be found on the top right hand corner of the home screen on your desktop or by clicking the drop down menu on the left hand side of your mobile home screen. You will then be guided through a series of simple steps to complete your listing. '
+    "ans": 'First of all you will need to sign up. You can do that <a href="/en/sign_up"> here. </a> Once you are logged in simply click on the <a href="/en/listings/new"> post a new listing </a> button. This can be found on the top right hand corner of the home screen on your desktop or by clicking the drop down menu on the left hand side of your mobile home screen. You will then be guided through a series of simple steps to complete your listing. '
   },
   {
     "qns": 'Who does Childer use to process its payments?',
@@ -21,7 +21,7 @@ var questionAnswer = [
   },
   {
     "qns": 'Are my bank account details safe on childer?',
-    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click here (<a href="https://stripe.com/docs/security/stripe">https://stripe.com/docs/security/stripe</a>) to find out more about security at Stripe. '
+    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click <a href="https://stripe.com/docs/security/stripe">https://stripe.com/docs/security/stripe>here</a> to find out more about security at Stripe. '
   },
   {
     "qns": 'What is a routing number?',
@@ -33,11 +33,11 @@ var questionAnswer = [
   },
   {
     "qns": 'Are credit card payments safe on childer? ',
-    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click here (<a href="https://stripe.com/docs/security/stripe">https://stripe.com/docs/security/stripe</a>) to find out more about security at Stripe. '
+    "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click here <a href="https://stripe.com/docs/security/stripe">https://stripe.com/docs/security/stripe>here</a> to find out more about security at Stripe. '
   },
   {
     "qns": 'Why hasn’t my payment been accepted / processed?',
-    "ans": 'In order for your payment to be completed the seller must accept in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist.'
+    "ans": 'In order for your payment to be completed the seller must accept it in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist.'
   },
   {
     "qns": 'I have accepted the buyer’s payment but it’s not in my bank account - what’s going on?',
@@ -49,19 +49,20 @@ var questionAnswer = [
   },
   {
     "qns": 'How should I price my item?',
-    "ans": 'A good rule of thumb to follow is pricing at  25-30% of what you originally paid depending on the item’s condition. We don’t have a set price list, our only condition is that your item is not valued lower than $7.50, items priced lower than this won’t yield a worthwhile return for you or childer.'
+    "ans": 'Our only stipulation is that you don\'t list items with a sale price of less than $7.50. Items priced any lower will not yield a worthwhile return for you or childer. If you\'d like a rough guide to pricing your item we recomend that you price at between 25% and 30% of the buy new price, taking into account it\'s condition. Check out the items currently on the site for a quide too.    
+
   },
   {
     "qns": 'What if I want to change my listing once it’s been posted?',
-    "ans": 'All listing can be edited at any time. You can find the edit button on the right hand side of the listing in your desk top view or at the very bottom of the listing in mobile view.'
+    "ans": 'All listings can be edited at any time, even once they are live on the site. You can find the edit button on the right hand side of the listing in your desk top view or at the very bottom of the listing in mobile view.'
   },
   {
     "qns": 'How can I contact a seller/ buyer? ',
-    "ans": 'You can contact any seller by clicking the “contact” button on their listing page. This can be found on the right hand side of the listing page in desktop view or at the bottom of the listing info in mobile view.</br>To contact your buyer, you use your childer inbox. As soon as a buyer elects to purchase your item but clicking the buy button you are put into contact view our internal messaging service.</br>Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for guidelines around communicating with other people on childer.'
+    "ans": 'You can contact any seller by clicking the “contact” button on their listing page. This can be found on the right hand side of the listing page in desktop view or at the bottom of the listing info in mobile view.</br>To contact your buyer, you use your childer inbox. As soon as a buyer purchases your item by clicking the "buy" button you are put into contact via our internal messaging service.</br>Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for guidelines around communicating with other people on childer.'
   },
   {
     "qns": 'My item didn’t arrive, what should I do?',
-    "ans": 'If you haven\'t received an item, you need to follow up with the seller directly. The seller should address your concerns and provide updates on the delivery of the item and its tracking information. If you find that the seller’s response is unsatisfactory you can contact childer who will contact the seller, review the issue and if appropriate suspend the sellers account.  childer will not issue any refunds on the seller’s behalf. Refunds must be paid from the seller directly. Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for more information on disputes and refunds.'
+    "ans": 'If you haven\'t received an item, you need to follow up with the seller directly. The seller should address your concerns and provide updates on the delivery of the item and its tracking information. If you find that the seller’s response is unsatisfactory you can get in touch with us and we will contact the seller, review the issue and if appropriate suspend the sellers account.  childer will not issue any refunds on the seller’s behalf. Refunds must be paid from the seller directly. Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for more information on disputes and refunds.'
   },
   {
     "qns": 'My item is not as described in the listing, what should I do? ',
@@ -73,7 +74,7 @@ var questionAnswer = [
   },
   {
     "qns": 'How do I refund a buyer?',
-    "ans": 'The easiest way to refund the buyer is by bank transfer into the buyer’s nominated bank account. You would need to contact them direct to obtain this information.'
+    "ans": 'The easiest way to refund the buyer is by bank transfer into the buyer’s nominated bank account. You will need to contact them directly to obtain their account details and set up a payment to them from your online banking.'
   },
   {
     "qns": 'I can’t login, what’s happening?',
@@ -92,7 +93,7 @@ var questionAnswer = [
     "ans": 'Below are details of items / actions prohibited on childer. By using our site you agree that you will not: <ul>' +
     '<li>sell or list unwashed items.</li>' +
     '<li>sell or list items that are damaged. </li>' +
-    '<li>sell or list items that do not comply with our <a href="#">Seller Guidelines</a></li>' +
+    '<li>sell or list items that do not comply with our <a href="https://drive.google.com/open?id=0B1uxDOhcNFJDWTFaSHFuMUw0NkE">Seller Guidelines</a>' +
     '<li>sell or list any item that is illegal to sell under any applicable law, statute, ordinance, or regulation, including but not limited to replica, counterfeit, or stolen items; child pornography; obscene materials; drugs; trade secrets; or items that have been identified by any New Zealand authority as hazardous to consumers and therefore subject to recall;</li>' +
     '<li>impersonate any person or entity; </li>' +
     '<li>stalk, threaten, or otherwise harass any person, or carry any weapons; </li>' +
@@ -114,7 +115,7 @@ var questionAnswer = [
   },
   {
     "qns": 'Why has my item been deleted?',
-    "ans": 'We strive to maintain consistently good quality items for the mums and dads using the site. If we feel that your item does not meet the required level of quality we will delete it from the site and contact you to let you know. Please check out our <a href="#">Seller Guidelines</a>  for more information on what we will and won’t accept on childer.'
+    "ans": 'We strive to maintain consistently good quality items for the mums and dads using the site. If we feel that your item does not meet the required level of quality we will delete it from the site and contact you to let you know. Please check out our <a href="#">Seller Guidelines</a> for more information on what we will and won’t accept on childer.'
   },
   {
     "qns": 'I forgot my password. How do I reset it?',
@@ -123,9 +124,5 @@ var questionAnswer = [
   {
     "qns": 'Do you allow guest checkout?',
     "ans": 'No. You must sign up to childer to purchase items from the site.'
-  },
-  {
-    "qns": 'why',
-    "ans": 'how'
-   } 
+  }
 ];
