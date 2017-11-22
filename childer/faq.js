@@ -125,7 +125,7 @@ var questionAnswer = [
     "ans": 'No. You must sign up to childer to purchase items from the site.'
   },
   {
-    "qns": ‘New Question…….’,
-    "ans": ‘Answer for the new question……..…’
-}
+    "qns": ‘New Question.’,
+    "ans": ‘Answer for the new question.’
+  }
 ];
