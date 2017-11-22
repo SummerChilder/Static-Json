@@ -49,7 +49,7 @@ var questionAnswer = [
   },
   {
     "qns": 'How should I price my item?',
-    "ans": 'Our only stipulation is that you don\'t list items with a sale price of less than $7.50. Items priced any lower will not yield a worthwhile return for you or childer. If you\'d like a rough guide to pricing your item we recomend that you price at between 25% and 30% of the buy new price, taking into account it\'s condition. Check out the items currently on the site for a quide too.    
+    "ans": 'Our only stipulation is that you don\'t list items with a sale price of less than $7.50. Items priced any lower will not yield a worthwhile return for you or childer. If you\'d like a rough guide to pricing your item we recomend that you price at between 25% and 30% of the buy new price, taking into account its condition. Check out the items currently on the site for a quide too.    
   },
   {
     "qns": 'What if I want to change my listing once it’s been posted?',
