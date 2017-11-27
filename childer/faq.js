@@ -45,7 +45,7 @@ var questionAnswer = [
   },
   {
     "qns": 'I have accepted the buyer’s payment but it’s not in my bank account - what’s going on?',
-    "ans": 'The buyer must mark the transaction as completed in their dashboard before funds are released to you. You will be notified via your childer inbox when they do this. Usually they do this when they have received the item and are happy with it. Once they have marked the transaction as completed it can take up to 48 hours for their payment to be processed by your bank. If you know the buyer has marked the order as completed and you still haven’t received your payment and it has been over 48 hours please contact us at info@childer.co.nz and we will do what we can to help.'
+    "ans": 'The buyer must mark the transaction as completed in their dashboard before funds are released to you. You will be notified via your childer inbox when they do this. Usually they do this when they have received the item and are happy with it. Once they have marked the transaction as completed it usually takes about 7 days for Stripe to pay the amount into your bank account. If you know the buyer has marked the order as completed and you still haven’t received your payment and it has been longer than 7 days please contact us at info@childer.co.nz and we will do what we can to help.'
   },
   {
     "qns": 'My item has been purchased, why is it still on the site?',
