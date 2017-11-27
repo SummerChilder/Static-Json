@@ -37,11 +37,15 @@ var questionAnswer = [
   },
   {
     "qns": 'Why hasn’t my payment been accepted / processed?',
-    "ans": 'In order for your payment to be completed the seller must accept it in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist.'
+    "ans": 'In order for your payment to be completed the seller must accept it in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist. Please note that your payment is not depsoited into the seller\'s bank account until you mark the transaction as completed. Funds are help by Stripe until you complete that step. We recommend only marking the transaction as complete once you have received the item and are happy with it.'
+  },
+  {
+    "qns": 'I don\'t want to pay the buyer until I have received the item and am happy with it, is this possible?',
+    "ans": 'Yes. Your payment will only be paid to the buyer once you mark your order as completed in the childer dashboard. Please note this will happen automatically if 90 days have passed from the date that you authorised the payment in your childer dashboard. If you receive your item and it isn\'t what you expected you should contact the seller and arrange for the return of the item. Once they close the listing your funds will be returned to you.'
   },
   {
     "qns": 'I have accepted the buyer’s payment but it’s not in my bank account - what’s going on?',
-    "ans": 'It can take up to 48 hours for your payment to be processed by your bank. If you haven’t received your payment and it has been over 48 hours please contact us at info@childer.co.nz and we will do what we can to help.'
+    "ans": 'The buyer must mark the transaction as completed in their dashboard before funds are released to you. You will be notified via your childer inbox when they do this. Usually they do this when they have received the item and are happy with it. Once they have marked the transaction as completed it can take up to 48 hours for their payment to be processed by your bank. If you know the buyer has marked the order as completed and you still haven’t received your payment and it has been over 48 hours please contact us at info@childer.co.nz and we will do what we can to help.'
   },
   {
     "qns": 'My item has been purchased, why is it still on the site?',
@@ -61,11 +65,11 @@ var questionAnswer = [
   },
   {
     "qns": 'My item didn’t arrive, what should I do?',
-    "ans": 'If you haven\'t received an item, you need to follow up with the seller directly. The seller should address your concerns and provide updates on the delivery of the item and its tracking information. If you find that the seller’s response is unsatisfactory you can get in touch with us and we will contact the seller, review the issue and if appropriate suspend the sellers account.  childer will not issue any refunds on the seller’s behalf. Refunds must be paid from the seller directly. Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for more information on disputes and refunds.'
+    "ans": 'If you haven\'t received an item please do not mark your transaction as completed as this means your payment will go through. You need to make contact with the seller directly. The seller should address your concerns and provide updates on the delivery of the item and its tracking information. If you find that the seller’s response is unsatisfactory you can get in touch with us and we will contact the seller, review the issue and if appropriate suspend the sellers account.  childer will not issue any refunds on the seller’s behalf. Refunds must be paid from the seller directly. Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for more information on disputes and refunds.'
   },
   {
     "qns": 'My item is not as described in the listing, what should I do? ',
-    "ans": 'If there are any significant discrepancies with the item, you should contact the seller directly. The seller will address your concerns and offer a solution, such as offering a refund, a replacement or exchanging for another item. If both you and the seller have agreed on returning the item, you must return the item in the exact same condition in which it was received. It is your responsibility as the buyer to pay for the return cost of shipping. Please refer to the FAQ above for more information on how to obtain a refund or settle a dispute; alternatively you can also refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a>.'
+    "ans": 'If there are any significant discrepancies with the item when you receive it do not mark your transaction as completed as this means that your payment will go through. You should contact the seller directly. The seller will address your concerns and offer a solution, such as offering a refund if you already marked the transaction as completed, a replacement or exchanging for another item. If both you and the seller have agreed on returning the item, you must return the item in the exact same condition in which it was received. It is your responsibility as the buyer to pay for the return cost of shipping. Please refer to the FAQ above for more information on how to obtain a refund or settle a dispute; alternatively you can also refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a>.'
   },
   {
     "qns": 'Can I get a refund?',
