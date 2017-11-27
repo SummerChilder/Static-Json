@@ -40,6 +40,10 @@ var questionAnswer = [
     "ans": 'In order for your payment to be completed the seller must accept it in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist. Please note that your payment is not depsoited into the seller\'s bank account until you mark the transaction as completed. Funds are help by Stripe until you complete that step. We recommend only marking the transaction as complete once you have received the item and are happy with it.'
   },
   {
+    "qns": 'When will I get paid?',
+    "ans": 'Once a buyer has marked their transaction with you as complete it can take around 7 days for Stripe to process their payment and deposit it into your bank account. Rest assured that you will get your money. The buyer must enter credit card details , which are accepted by Stripe, before they can request to purchase your item.'
+  },
+  {
     "qns": 'I don\'t want to pay the buyer until I have received the item and am happy with it, is this possible?',
     "ans": 'Yes. Your payment will only be paid to the buyer once you mark your order as completed in the childer dashboard. Please note this will happen automatically if 90 days have passed from the date that you authorised the payment in your childer dashboard. If you receive your item and it isn\'t what you expected you should contact the seller and arrange for the return of the item. Once they close the listing your funds will be returned to you.'
   },
