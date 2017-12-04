@@ -24,12 +24,8 @@ var questionAnswer = [
     "ans": 'Yes. Childer uses Stripe to process all payments. Stripe has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, they make use of best-in-class security tools and practices to maintain a high level of security at Stripe. Click <a href="https://stripe.com/docs/security/stripe">here</a> to find out more about security at Stripe. '
   },
   {
-    "qns": 'What is a routing number?',
-    "ans": 'The routing number that you are asked to enter when adding your bank account is the first 6 digits of your bank account number, e.g. 065472. The remaining digits of your account number should be entered into the “account number” number box.'
-  },
-  {
-    "qns": 'My account number is too long, why won’t it fit?',
-    "ans": 'You need to enter the first six digits of your account number in the box that is titled “routing number”. Now the remaining digits should fit perfectly into the “account number box. You may need to add an additional 0 in front of the final two digits (i.e. your suffix). For example of you account suffix / final two digits are 02,  you may need to write 002.'
+    "qns": 'I get an error message everytime I enter my payment details, why is this?',
+    "ans": 'It is most likely because you need to add an additional 0 to last two digits of your account number. For example, if the last digits of your account number are 02, try entering 002. You should find that you are then able to successfully save the form.'
   },
   {
     "qns": 'Are credit card payments safe on childer? ',
