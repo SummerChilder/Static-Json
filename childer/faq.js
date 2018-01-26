@@ -1,5 +1,21 @@
 var questionAnswer = [
   {
+    "qns": 'Where is pick up?',
+    "ans": 'Items purchased from Childer that are listed by our Depot Service are picked up from Sandringham, Auckland. You will be given the address once your purchased is ocnfirmed. For items sold by our members you will be notofied by the seller at purchase as to where the pick up location is. Childer is national so members will be based all over the country and your ability to pick up an item is dependent on your proximity to the seller. There is a map included with each listing which indicates the sellers rough geographical location.'  },
+  },
+  {
+    "qns": 'My item has been purchased, why is it still on the site?',
+    "ans": 'Until you manually close your item it will be visible on the site. To close your listing, click on the listing item and select the option to “close listing”. This can be found on the right hand side of the screen on your desktop or at the bottom of your listing details in mobile view.'
+  },
+  {
+    "qns": 'Is it possible to share shipping costs if you are buying more than one item from the same seller?',
+    "ans": 'Yes. There is not an automated way of doing this so you will need to contact the seller before purchasing the item to ask whether they are happy to share shipping costs across multiple items. If they are, then you will select your items and select shipping costs for only one, selecting pick up for the other items. This way when you pay you will only be paying for shipping once.'
+  },
+  {
+    "qns": 'My photos are not uploading in the order that I want them to appear, can I change this?',
+    "ans": 'Yes. Once you have uploaded your images you can drag and drop them into any position. If there is already an image in the position that you want to put another image into, simply drag and drop your selected image into that spot and the original image will move itself.'
+  },
+  {
     "qns": 'How do I sign up?',
     "ans": 'To sign up to childer visit <a href="www.childershop.co.nz">www.childershop.co.nz</a> and click the <a href="/en/sign_up">sign up </a> button on the top right hand side of the home page (just next to the <a href="/en/listings/new"> post a new listing </a> button). You will be directed to either sign up with your Facebook login detail or create an account with us. Once you have completed the steps as directed you will be signed up and ready to go! '
   },
@@ -46,10 +62,6 @@ var questionAnswer = [
   {
     "qns": 'I have accepted the buyer’s payment but it’s not in my bank account - what’s going on?',
     "ans": 'The buyer must mark the transaction as completed in their dashboard before funds are released to you. You will be notified via your childer inbox when they do this. Usually they do this when they have received the item and are happy with it. Once they have marked the transaction as completed it usually takes about 7 days for Stripe to pay the amount into your bank account. If you know the buyer has marked the order as completed and you still haven’t received your payment and it has been longer than 7 days please contact us at info@childer.co.nz and we will do what we can to help.'
-  },
-  {
-    "qns": 'My item has been purchased, why is it still on the site?',
-    "ans": 'Until you manually close your item it will be visible on the site. To close your listing, click on the listing item and select the option to “close listing”. This can be found on the right hand side of the screen on your desktop or at the bottom of your listing details in mobile view.'
   },
   {
     "qns": 'How should I price my item?',
