@@ -1,7 +1,7 @@
 var questionAnswer = [
   {
     "qns": 'Where is pick up?',
-    "ans": 'Items purchased from Childer that are listed by our Depot Service are picked up from Sandringham, Auckland. You will be given the address once your purchased is ocnfirmed. For items sold by our members you will be notofied by the seller at purchase as to where the pick up location is. Childer is national so members will be based all over the country and your ability to pick up an item is dependent on your proximity to the seller. There is a map included with each listing which indicates the sellers rough geographical location.'  },
+    "ans": 'Items purchased from Childer that are listed by our Depot Service are picked up from Sandringham, Auckland. You will be given the address once your purchased is ocnfirmed. For items sold by our members you will be notofied by the seller at purchase as to where the pick up location is. Childer is national so members will be based all over the country and your ability to pick up an item is dependent on your proximity to the seller. There is a map included with each listing which indicates the sellers rough geographical location.'  
   },
   {
     "qns": 'My item has been purchased, why is it still on the site?',
