@@ -12,6 +12,14 @@ var questionAnswer = [
     "ans": 'Yes. There is not an automated way of doing this so you will need to contact the seller before purchasing the item to ask whether they are happy to share shipping costs across multiple items. If they are, then you will select your items and select shipping costs for only one, selecting pick up for the other items. This way when you pay you will only be paying for shipping once.'
   },
   {
+    "qns": 'How many items can I expect to sell using childer?',
+    "ans": 'Based on current sales we would anticipate that you would sell 25% of your items in the first 4 weeks of having them listed. It is not uncommon for some of your items to not sell at all. The condition, brand and season of items will all play a part in how likely they are to sell.'
+  },
+   {
+    "qns": 'Am I able to list my items on other platforms / websites?',
+    "ans": 'Absolutely, there is no limitation about listing your items elsewhere.'
+  },
+  {
     "qns": 'My photos are not uploading in the order that I want them to appear, can I change this?',
     "ans": 'Yes. Once you have uploaded your images you can drag and drop them into any position. If there is already an image in the position that you want to put another image into, simply drag and drop your selected image into that spot and the original image will move itself into another position.'
   },
