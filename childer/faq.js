@@ -57,19 +57,15 @@ var questionAnswer = [
   },
   {
     "qns": 'Why hasn’t my payment been accepted / processed?',
-    "ans": 'In order for your payment to be completed the seller must accept it in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist. Please note that your payment is not depsoited into the seller\'s bank account until you mark the transaction as completed. Funds are help by Stripe until you complete that step. We recommend only marking the transaction as complete once you have received the item and are happy with it.'
+    "ans": 'In order for payment to be made, the seller must accept your request to purchase in their childer dashboard. Sellers are not usually online 24/7 so you may have to wait a few hours for them to accept your payment. You will be notified as soon as they have approved your payment. If you are concerned about the time it is taking for a payment to be accepted you can contact the seller direct via the childer inbox or alternatively you can contact <a href="https://www.childershop.co.nz/en/user_feedbacks/new">childer</a> to see if we can assist. Please note that your payment is not depsoited into the seller\'s bank account until the transaction is marked complete, either by you manually or automatically by childer 10 days after the transaction was made. Funds are held by Stripe until the transaction is marked as complete.'
   },
   {
     "qns": 'When will I get paid?',
-    "ans": 'Once a buyer has marked their transaction with you as complete it can take around 7 days for Stripe to process their payment and deposit it into your bank account. Rest assured that you will get your money. The buyer must enter credit card details , which are accepted by Stripe, before they can request to purchase your item.'
-  },
-  {
-    "qns": 'I don\'t want to pay the buyer until I have received the item and am happy with it, is this possible?',
-    "ans": 'Yes. Your payment will only be paid to the buyer once you mark your order as completed in the childer dashboard. Please note this will happen automatically if 90 days have passed from the date that you authorised the payment in your childer dashboard. If you receive your item and it isn\'t what you expected you should contact the seller and arrange for the return of the item. Once they close the listing your funds will be returned to you.'
+    "ans": 'Once a transaction has been marked as complete, either by the buyer manually or automatically by childer 10 days after the day of purchase.  It can take 2-7 days for Stripe to process their payment and deposit it into your bank account. Rest assured that you will get your money. The buyer must enter credit card details , which are accepted by Stripe, before they can request to purchase your item.'
   },
   {
     "qns": 'I have accepted the buyer’s payment but it’s not in my bank account - what’s going on?',
-    "ans": 'The buyer must mark the transaction as completed in their dashboard before funds are released to you. You will be notified via your childer inbox when they do this. Usually they do this when they have received the item and are happy with it. Once they have marked the transaction as completed it usually takes about 7 days for Stripe to pay the amount into your bank account. If you know the buyer has marked the order as completed and you still haven’t received your payment and it has been longer than 7 days please contact us at info@childer.co.nz and we will do what we can to help.'
+    "ans": 'The buyer must mark the transaction as completed in their dashboard before funds are released to you. This will either be done by the buyer manually or automatically by childer 10 days after the day of purchase.  You will be notified via your childer inbox when the transaction is marked as complete. Once the transaction is marked as complete it usually takes about 2-7 days for Stripe to pay the amount into your bank account.'
   },
   {
     "qns": 'How should I price my item?',
@@ -85,11 +81,11 @@ var questionAnswer = [
   },
   {
     "qns": 'My item didn’t arrive, what should I do?',
-    "ans": 'If you haven\'t received an item please do not mark your transaction as completed as this means your payment will go through. You need to make contact with the seller directly. The seller should address your concerns and provide updates on the delivery of the item and its tracking information. If you find that the seller’s response is unsatisfactory you can get in touch with us and we will contact the seller, review the issue and if appropriate suspend the sellers account.  childer will not issue any refunds on the seller’s behalf. Refunds must be paid from the seller directly. Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for more information on disputes and refunds.'
+    "ans": 'You need to make contact with the seller directly. The seller should address your concerns and provide updates on the delivery of the item and its tracking information. If you find that the seller’s response is unsatisfactory you can get in touch with us and we will contact the seller, review the issue and if appropriate suspend the sellers account.  childer will not issue any refunds on the seller’s behalf. Refunds must be paid from the seller directly. Please refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a> for more information on disputes and refunds.'
   },
   {
     "qns": 'My item is not as described in the listing, what should I do? ',
-    "ans": 'If there are any significant discrepancies with the item when you receive it do not mark your transaction as completed as this means that your payment will go through. You should contact the seller directly. The seller will address your concerns and offer a solution, such as offering a refund if you already marked the transaction as completed, a replacement or exchanging for another item. If both you and the seller have agreed on returning the item, you must return the item in the exact same condition in which it was received. It is your responsibility as the buyer to pay for the return cost of shipping. Please refer to the FAQ above for more information on how to obtain a refund or settle a dispute; alternatively you can also refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a>.'
+    "ans": 'If there are any significant discrepancies with the item you purchased you should contact the seller directly. The seller should address your concerns and offer a solution, such as offering a refund, a replacement or exchanging for another item. If both you and the seller have agreed on returning the item, you must return the item in the exact same condition in which it was received. It is your responsibility as the buyer to pay for the return cost of shipping. Please refer to the FAQ above for more information on how to obtain a refund or settle a dispute; alternatively you can also refer to our <a href="https://www.childershop.co.nz/en/infos/terms"> Terms of Use </a>.'
   },
   {
     "qns": 'Can I get a refund?',
@@ -109,7 +105,7 @@ var questionAnswer = [
   },
   {
     "qns": 'How do I receive my payment?',
-    "ans": 'You will need to add our bank account details in the “payment” section of your “settings” panel. Once you have done this your payment will go directly into your bank account. This should happen within 2 days of you accepting the payment. Your payment will be processed using Stripe – you can find out more about the payment service <a href="https://stripe.com/nz/connect-account/legal#translation">here</a>.'
+    "ans": 'You will need to add our bank account details in the “payment” section of your “settings” panel. Once you have done this your payment will go directly into your bank account. This should happen within 2 -7 days of you accepting the payment. Your payment will be processed using Stripe – you can find out more about the payment service <a href="https://stripe.com/nz/connect-account/legal#translation">here</a>.'
   },
   {
     "qns": 'What items / actions aren’t allowed on childer? ',
