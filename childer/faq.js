@@ -33,7 +33,7 @@ var questionAnswer = [
   },
   {
     "qns": 'What are childer’s fees? ',
-    "ans": 'It is free to sign up and free to list items for sale. childer charges a commission on all items sold.  We charge 15% commission on items with a sale price of $16.00 and over. For items under $16.00 there is a set transaction fee of $2.50; this is fixed to cover our minimum charges. </br> Items sold via our Depot Service are subject to 50% commission. In addition, sellers are required to pay the Stripe transaction fees.'
+    "ans": 'It is free to sign up and free to list items for sale. childer charges a commission on all items sold.  We charge 10% commission on items with a sale price of $25.00 and over. For items under $25.00 there is a set transaction fee of $2.50; this is fixed to cover our minimum charges. </br> Items sold via our Depot Service are subject to 50% commission. In addition, sellers are required to pay the Stripe transaction fees.'
   },
   {
     "qns": 'How do I list an item on childer? ',
